@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--🔭 I am currently working on my personal projects
+- 🔭 I am currently working on my personal projects
 - 🌱 I am currently learning about animation everything related to glitch art
 - 👯 I am looking to collaborate in open source code, and creative code
 - 🤔 I am looking for help with some previous knowledge and new learnings
