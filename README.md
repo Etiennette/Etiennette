@@ -21,6 +21,5 @@ Technology lover and passionate about creative code📲💻🖥
 - 👯 I am looking to collaborate on open source code and creative code.
 - 🤔 I am looking for help with some previous knowledge and new learnings.
 - 💬 Ask me what you like, if I don't know I'll tell you
-- 📫 How to contact me: via fb or instagram my nickname is Etiennette Victory
 - 😄 Pronouns: I don't remember any
 - ⚡ Fun fact: the beauty that can be created with a computer is wonderful
